@@ -1,0 +1,20 @@
+body {
+  /* background-color: rgb(103, 56, 86); */
+  background: #eee;
+}
+.card {
+  border-radius: 30px;
+}
+.lead {
+  color: #ff5500;
+}
+.jumbotron {
+  padding-top: 5rem;
+}
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
